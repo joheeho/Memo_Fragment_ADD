@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MEMO_Recycleview</string>
+    <string name="menu_memo">MEMO</string>
+    <string name="menu_home">홈</string>
+    <string name="menu_setting">세팅</string>
+
+
+</resources>
